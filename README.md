@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Sohad-Almadhoon
+- 👀 I’m interested in coding and design
+- 🌱 I’m currently learning react-js
+- 💞️ I'm looking to collaborate with all of you
+- 📫 How to reach me sohadmadhoon20201@gmail.com
