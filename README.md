@@ -10,9 +10,9 @@ I'm a Software Engineer and Web Developer with over 3 years of experience. I spe
 📫 How to reach me: [sohadmadhoon20201@gmail.com]<br/>
 💪🏻 Here's my portfolio: [https://next-animated-portfolio-liph.onrender.com/]
 
-![Sohad-Almadhoon's Stats](https://github-readme-stats.vercel.app/api?username=Sohad-Almadhoon&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![Sohad-Almadhoon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sohad-Almadhoon&theme=vue-dark&hide_border=true)
-![Sohad-Almadhoon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sohad-Almadhoon&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![Sohad-Almadhoon's Stats](https://github-readme-stats.vercel.app/api?username=Sohad-Almadhoon&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) <br/>
+![Sohad-Almadhoon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sohad-Almadhoon&theme=vue-dark&hide_border=true) <br/>
+![Sohad-Almadhoon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sohad-Almadhoon&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) <br/>
 
 
 
