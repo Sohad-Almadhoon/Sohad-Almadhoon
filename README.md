@@ -2,7 +2,7 @@
 
 I'm a Software Engineer and Web Developer with over 3 years of experience. I specialize in building full-stack applications, and I’m highly proficient in the MERN stack, Next.js, React.js, MongoDB, and PostgreSQL.
 
-🔭 I’m currently working on A Bookblock.<br/>
+🔭 I’m currently working "on GO SHOPPY".<br/>
 🌱 I’m currently learning advanced PostgreSQL and React Native.<br/>
 👯 I’m looking to collaborate on Next.js and MERN stack projects.<br/>
 🤔 I’m looking for help with optimizing full-stack applications for performance.<br/>
