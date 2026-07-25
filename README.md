@@ -1,6 +1,7 @@
 ## Hi, I'm Sohad  👋
 
-I'm a Software Engineer and Web Developer with over 4 years of experience. I specialize in building full-stack applications, and I’m highly proficient in the MERN stack, Next.js, React.js, MongoDB, and PostgreSQL.
+I'm a Software Engineer and Web Developer with over 5 years of experience. I specialize in building full-stack applications, and I’m highly proficient in the MERN stack, Next.js, React.js, MongoDB, PHP Laravel and PostgreSQL.
+I'm Flutter Developer.
 
 🌱 I’m currently learning advanced PostgreSQL.<br/>
 👯 I’m looking to collaborate on Next.js and MERN stack projects.<br/>
